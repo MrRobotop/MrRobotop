@@ -1,0 +1,39 @@
+{
+  "github": {
+    "public_repos": 69,
+    "stars": 71
+  },
+  "hf": {
+    "dataset_downloads": 259,
+    "dataset_downloads_30d": 46,
+    "datasets": 1,
+    "model_downloads": 2529,
+    "model_downloads_30d": 262,
+    "models": 28,
+    "projects": {
+      "Other": {
+        "datasets": 0,
+        "models": 0
+      },
+      "SchemaSage": {
+        "datasets": 259,
+        "models": 403
+      },
+      "VeriSci": {
+        "datasets": 0,
+        "models": 2126
+      }
+    },
+    "spaces": 1
+  },
+  "preprints": 4,
+  "pypi": {
+    "by_package": {
+      "clap-family": 268,
+      "toploss": 223
+    },
+    "downloads": 491,
+    "packages": 2
+  },
+  "updated": "2026-10-08"
+}

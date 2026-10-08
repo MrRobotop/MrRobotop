@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "label": "HF downloads",
+  "message": "2,788",
+  "color": "FFD21E",
+  "namedLogo": "huggingface",
+  "style": "flat-square",
+  "cacheSeconds": 3600
+}

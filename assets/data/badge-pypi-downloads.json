@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "label": "PyPI downloads",
+  "message": "491",
+  "color": "2a78d6",
+  "namedLogo": "pypi",
+  "style": "flat-square",
+  "cacheSeconds": 3600
+}

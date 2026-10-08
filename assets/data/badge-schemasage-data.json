@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "label": "dataset downloads",
+  "message": "259",
+  "color": "2a78d6",
+  "namedLogo": "huggingface",
+  "style": "flat-square",
+  "cacheSeconds": 3600
+}
