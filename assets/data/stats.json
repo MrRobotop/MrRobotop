@@ -7,8 +7,8 @@
     "dataset_downloads": 287,
     "dataset_downloads_30d": 72,
     "datasets": 1,
-    "model_downloads": 2567,
-    "model_downloads_30d": 273,
+    "model_downloads": 2568,
+    "model_downloads_30d": 257,
     "models": 28,
     "projects": {
       "Other": {
@@ -21,7 +21,7 @@
       },
       "VeriSci": {
         "datasets": 0,
-        "models": 2158
+        "models": 2159
       }
     },
     "spaces": 2
@@ -29,11 +29,11 @@
   "preprints": 4,
   "pypi": {
     "by_package": {
-      "clap-family": 269,
+      "clap-family": 270,
       "toploss": 224
     },
-    "downloads": 493,
+    "downloads": 494,
     "packages": 2
   },
-  "updated": "2026-10-13"
+  "updated": "2026-10-14"
 }
