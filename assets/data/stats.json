@@ -4,11 +4,11 @@
     "stars": 71
   },
   "hf": {
-    "dataset_downloads": 297,
-    "dataset_downloads_30d": 53,
+    "dataset_downloads": 299,
+    "dataset_downloads_30d": 54,
     "datasets": 1,
-    "model_downloads": 2592,
-    "model_downloads_30d": 254,
+    "model_downloads": 2596,
+    "model_downloads_30d": 248,
     "models": 28,
     "projects": {
       "Other": {
@@ -16,8 +16,8 @@
         "models": 0
       },
       "SchemaSage": {
-        "datasets": 297,
-        "models": 410
+        "datasets": 299,
+        "models": 414
       },
       "VeriSci": {
         "datasets": 0,
@@ -29,11 +29,11 @@
   "preprints": 4,
   "pypi": {
     "by_package": {
-      "clap-family": 274,
-      "toploss": 226
+      "clap-family": 275,
+      "toploss": 227
     },
-    "downloads": 500,
+    "downloads": 502,
     "packages": 2
   },
-  "updated": "2026-10-20"
+  "updated": "2026-10-21"
 }
