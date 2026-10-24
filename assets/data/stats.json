@@ -7,8 +7,8 @@
     "dataset_downloads": 300,
     "dataset_downloads_30d": 55,
     "datasets": 1,
-    "model_downloads": 2620,
-    "model_downloads_30d": 248,
+    "model_downloads": 2629,
+    "model_downloads_30d": 229,
     "models": 28,
     "projects": {
       "Other": {
@@ -17,11 +17,11 @@
       },
       "SchemaSage": {
         "datasets": 300,
-        "models": 434
+        "models": 435
       },
       "VeriSci": {
         "datasets": 0,
-        "models": 2186
+        "models": 2194
       }
     },
     "spaces": 2
@@ -30,10 +30,10 @@
   "pypi": {
     "by_package": {
       "clap-family": 276,
-      "toploss": 228
+      "toploss": 229
     },
-    "downloads": 504,
+    "downloads": 505,
     "packages": 2
   },
-  "updated": "2026-10-23"
+  "updated": "2026-10-24"
 }
