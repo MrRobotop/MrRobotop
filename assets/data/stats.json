@@ -7,8 +7,8 @@
     "dataset_downloads": 303,
     "dataset_downloads_30d": 57,
     "datasets": 1,
-    "model_downloads": 2713,
-    "model_downloads_30d": 222,
+    "model_downloads": 2724,
+    "model_downloads_30d": 223,
     "models": 28,
     "projects": {
       "Other": {
@@ -17,11 +17,11 @@
       },
       "SchemaSage": {
         "datasets": 303,
-        "models": 458
+        "models": 466
       },
       "VeriSci": {
         "datasets": 0,
-        "models": 2255
+        "models": 2258
       }
     },
     "spaces": 2
@@ -35,5 +35,5 @@
     "downloads": 515,
     "packages": 2
   },
-  "updated": "2026-10-30"
+  "updated": "2026-10-31"
 }
