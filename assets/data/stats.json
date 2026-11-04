@@ -5,10 +5,10 @@
   },
   "hf": {
     "dataset_downloads": 308,
-    "dataset_downloads_30d": 59,
+    "dataset_downloads_30d": 55,
     "datasets": 1,
     "model_downloads": 2752,
-    "model_downloads_30d": 238,
+    "model_downloads_30d": 237,
     "models": 28,
     "projects": {
       "Other": {
@@ -29,11 +29,11 @@
   "preprints": 4,
   "pypi": {
     "by_package": {
-      "clap-family": 287,
+      "clap-family": 288,
       "toploss": 234
     },
-    "downloads": 521,
+    "downloads": 522,
     "packages": 2
   },
-  "updated": "2026-11-03"
+  "updated": "2026-11-04"
 }
