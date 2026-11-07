@@ -5,10 +5,10 @@
   },
   "hf": {
     "dataset_downloads": 308,
-    "dataset_downloads_30d": 49,
+    "dataset_downloads_30d": 48,
     "datasets": 1,
-    "model_downloads": 2764,
-    "model_downloads_30d": 235,
+    "model_downloads": 2765,
+    "model_downloads_30d": 234,
     "models": 28,
     "projects": {
       "Other": {
@@ -17,7 +17,7 @@
       },
       "SchemaSage": {
         "datasets": 308,
-        "models": 470
+        "models": 471
       },
       "VeriSci": {
         "datasets": 0,
@@ -35,5 +35,5 @@
     "downloads": 526,
     "packages": 2
   },
-  "updated": "2026-11-06"
+  "updated": "2026-11-07"
 }
