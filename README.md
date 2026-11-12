@@ -22,7 +22,7 @@ I build AI systems that have to be right: evaluation for LLM agents, evidence-ba
 <!-- STATS:START -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="Live stats: 3,103 Hugging Face downloads (250 in the last 30 days), 28 models, 74 GitHub stars across 71 public repos, 530 PyPI downloads, 4 preprints. Updated 11 Nov 2026." src="assets/stats-light.svg" width="100%">
+  <img alt="Live stats: 3,106 Hugging Face downloads (250 in the last 30 days), 28 models, 74 GitHub stars across 71 public repos, 530 PyPI downloads, 4 preprints. Updated 12 Nov 2026." src="assets/stats-light.svg" width="100%">
 </picture>
 
 <details>
@@ -30,14 +30,14 @@ I build AI systems that have to be right: evaluation for LLM agents, evidence-ba
 
 | Metric | Value |
 | :-- | :-- |
-| Hugging Face downloads, all time | 3,103 (VeriSci models 2,314 · SchemaSage models 474 · Datasets 315) |
+| Hugging Face downloads, all time | 3,106 (VeriSci models 2,316 · SchemaSage models 474 · Datasets 316) |
 | Hugging Face downloads, last 30 days | 250 |
 | Models, datasets, Spaces | 28, 1, 2 |
 | GitHub stars | 74 across 71 public repos |
 | PyPI downloads, excluding mirrors | 530 (toploss 237 · clap-family 293) |
 | Preprints | 4 (2026, on Zenodo) |
 
-Updated 11 Nov 2026; refreshed daily by GitHub Actions.
+Updated 12 Nov 2026; refreshed daily by GitHub Actions.
 
 </details>
 <!-- STATS:END -->
