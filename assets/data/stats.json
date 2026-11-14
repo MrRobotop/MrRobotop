@@ -1,14 +1,14 @@
 {
   "github": {
-    "public_repos": 71,
+    "public_repos": 72,
     "stars": 74
   },
   "hf": {
     "dataset_downloads": 316,
-    "dataset_downloads_30d": 28,
+    "dataset_downloads_30d": 23,
     "datasets": 1,
-    "model_downloads": 2794,
-    "model_downloads_30d": 226,
+    "model_downloads": 2796,
+    "model_downloads_30d": 228,
     "models": 28,
     "projects": {
       "Other": {
@@ -21,7 +21,7 @@
       },
       "VeriSci": {
         "datasets": 0,
-        "models": 2320
+        "models": 2322
       }
     },
     "spaces": 2
@@ -35,5 +35,5 @@
     "downloads": 530,
     "packages": 2
   },
-  "updated": "2026-11-13"
+  "updated": "2026-11-14"
 }
