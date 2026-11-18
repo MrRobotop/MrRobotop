@@ -1,14 +1,14 @@
 {
   "github": {
-    "public_repos": 72,
+    "public_repos": 73,
     "stars": 74
   },
   "hf": {
-    "dataset_downloads": 320,
-    "dataset_downloads_30d": 23,
+    "dataset_downloads": 324,
+    "dataset_downloads_30d": 26,
     "datasets": 1,
-    "model_downloads": 2806,
-    "model_downloads_30d": 216,
+    "model_downloads": 2811,
+    "model_downloads_30d": 220,
     "models": 28,
     "projects": {
       "Other": {
@@ -16,12 +16,12 @@
         "models": 0
       },
       "SchemaSage": {
-        "datasets": 320,
-        "models": 478
+        "datasets": 324,
+        "models": 480
       },
       "VeriSci": {
         "datasets": 0,
-        "models": 2328
+        "models": 2331
       }
     },
     "spaces": 2
@@ -35,5 +35,5 @@
     "downloads": 532,
     "packages": 2
   },
-  "updated": "2026-11-17"
+  "updated": "2026-11-18"
 }
