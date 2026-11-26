@@ -22,7 +22,7 @@ I build AI systems that have to be right: evaluation for LLM agents, evidence-ba
 <!-- STATS:START -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="Live stats: 3,165 Hugging Face downloads (159 in the last 30 days), 28 models, 74 GitHub stars across 73 public repos, 538 PyPI downloads, 4 preprints. Updated 25 Nov 2026." src="assets/stats-light.svg" width="100%">
+  <img alt="Live stats: 3,165 Hugging Face downloads (159 in the last 30 days), 28 models, 74 GitHub stars across 73 public repos, 538 PyPI downloads, 4 preprints. Updated 26 Nov 2026." src="assets/stats-light.svg" width="100%">
 </picture>
 
 <details>
@@ -37,7 +37,7 @@ I build AI systems that have to be right: evaluation for LLM agents, evidence-ba
 | PyPI downloads, excluding mirrors | 538 (toploss 240 · clap-family 298) |
 | Preprints | 4 (2026, on Zenodo) |
 
-Updated 25 Nov 2026; refreshed daily by GitHub Actions.
+Updated 26 Nov 2026; refreshed daily by GitHub Actions.
 
 </details>
 <!-- STATS:END -->
