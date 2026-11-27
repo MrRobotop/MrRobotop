@@ -4,11 +4,11 @@
     "stars": 74
   },
   "hf": {
-    "dataset_downloads": 333,
-    "dataset_downloads_30d": 31,
+    "dataset_downloads": 335,
+    "dataset_downloads_30d": 32,
     "datasets": 1,
-    "model_downloads": 2832,
-    "model_downloads_30d": 128,
+    "model_downloads": 2835,
+    "model_downloads_30d": 126,
     "models": 28,
     "projects": {
       "Other": {
@@ -16,12 +16,12 @@
         "models": 0
       },
       "SchemaSage": {
-        "datasets": 333,
-        "models": 491
+        "datasets": 335,
+        "models": 492
       },
       "VeriSci": {
         "datasets": 0,
-        "models": 2341
+        "models": 2343
       }
     },
     "spaces": 2
@@ -35,5 +35,5 @@
     "downloads": 538,
     "packages": 2
   },
-  "updated": "2026-11-26"
+  "updated": "2026-11-27"
 }
